@@ -7,3 +7,7 @@
 - 🚀 I work as a **Backend Developer for [Mathpresso](https://mathpresso.com)**, a Seoul-based Edtech Startup.
 * * *
 - 📫 How to reach me: bdv111@snu.ac.kr
+
+* * *
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davin111&count_private=true&include_all_commits=true&show_icons=true&theme=radical&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
