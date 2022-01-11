@@ -10,4 +10,4 @@
 
 * * *
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davin111&count_private=true&include_all_commits=true&show_icons=true&theme=radical&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davin111&count_private=true&include_all_commits=true&show_icons=true&theme=radical&custom_title=GitHub%20Stats)](https://github.com/davin111)
